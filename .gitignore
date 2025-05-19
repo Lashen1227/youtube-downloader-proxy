@@ -1,0 +1,24 @@
+# Ballerina build artifacts
+target/
+.ballerina/
+
+# Ballerina central cache
+.bala/
+.balo/
+.c2c-cache/
+.central.ballerina.io/
+
+# VSCode & IntelliJ settings
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment / config files (optional)
+.env
+*.toml.bak
